@@ -14,11 +14,29 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 
 ## Theory
+
+A combinational logic circuit implement logic functions where its output depends only on its current combination of input values. on the other hand sequential circuits,unlike combinational logic, have state or memory. 
+
+some logic operations may require more than one logic gate. Different combinations of gates are designed for different operations. the brhaviour ofvthe combined logic gates can be determined by constructing a truth table of the combined gate
  
 
 ## Logic Diagram
 
+
 ## Procedure
+
+1.create a project with required entities. 
+
+2.create a module along with respective file name. 
+
+3.run the respective programs for tha given boolean equations. 
+
+4.run the module and get the respective RTL otuputs. 
+
+5.create a university program(VWF)foe getting timming diagram. 
+
+6.give the respective input for the timming diagram and obtain the result. 
+
 
 ## Program:
 
