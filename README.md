@@ -41,6 +41,11 @@ some logic operations may require more than one logic gate. Different combinatio
 ## Program:
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+
+
+
+
+
 ![P](https://user-images.githubusercontent.com/129949620/234520390-ee996021-22b9-49d2-8658-99a90d107c32.jpg)
 
 
